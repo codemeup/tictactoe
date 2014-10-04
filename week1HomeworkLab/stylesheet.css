@@ -1,0 +1,75 @@
+.selectedX {
+	background-color: #FFCCFF;
+}
+
+.selectedO {
+	background-color: #FFFFCC
+}
+
+.col-md-4 {
+	border-color: black;
+	border-width: 10px;
+	padding: 10px;
+}
+.container-fluid > row > col-md-4 {
+	border-color: black;
+	border-width: 10px;
+	margin: 10px;
+}
+.container-fluid {
+	margin: 10px;
+	padding:10px;
+	vertical-align: center;
+}
+h3 {
+	font-family: avenir;
+	text-align: center;
+	color: grey;
+}
+
+h1 {
+	font-family: avenir;
+	text-align: center;
+}
+
+html, body {
+	background: ;
+}
+
+div.col-md-4 {
+	border: 2px solid white;
+	height: 100px;
+	width: 100px;
+	text-align: center;
+	vertical-align: center;
+	padding: 10px;
+	font-family: avenir;
+	font-size: 50px;
+	background-color: #99FFCC;
+	color: grey;
+	font-weight: 15px;
+	
+}
+div.container-fluid {
+	background-color: pink;
+}
+
+div.row {
+	margin-left: 50px;
+}
+
+.button {
+	font-family: avenir;
+}
+
+/*.row{
+	margin=50px
+}
+
+.col-md-4{
+	border.color: #99FFCC;
+	border.width: 10px;
+}
+.glyphicon{
+	border.color: #99FFCC;
+}*/
